@@ -30,6 +30,7 @@ class Config(object):
 
     # params for pretrain
     num_epochs_src = 100
+    #log step
     log_step_src = 5
     save_step_src = 50
     eval_step_src = 10
